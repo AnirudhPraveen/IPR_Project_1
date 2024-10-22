@@ -29,7 +29,7 @@ Before running the project, make sure you have the following installed:
 
 4. jupyter notebook
 
-#### Run on Google Colab:
+#### Run on Google Colab (Recommended):
 Data in folder: https://drive.google.com/drive/folders/1aEPP6_53Rqhd0FFeaB4AlGFHsIUVMziA?usp=share_link
 
 1. Open Colab
