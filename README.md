@@ -2,8 +2,6 @@
 
 Paper link: https://arxiv.org/pdf/2211.11797
 
-# Project Title
-
 ## Description
 
 This project involves training and evaluating models on xView data (http://xviewdataset.org). The project includes a custom CDS model and a comparison with ResNet18.
