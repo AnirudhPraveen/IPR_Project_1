@@ -21,7 +21,7 @@ Before running the project, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AnirudhPraveen/IPR
+   git clone https://github.com/AnirudhPraveen/IPR_Project_1.git
 
 2. cd path/to/your/project
 
