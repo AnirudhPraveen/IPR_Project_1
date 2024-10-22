@@ -1,0 +1,8 @@
+torch
+rasterio
+shapely
+numpy
+pandas
+torchvision
+tqdm
+Pillow
