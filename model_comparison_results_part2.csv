@@ -1,0 +1,4 @@
+,Model,Instance-wise Accuracy (No Logit),Class-wise Accuracy (No Logit),Instance-wise Accuracy (Logit Adjusted),Class-wise Accuracy (Logit Adjusted)
+0,CDS Baseline,0.9219480005279134,0.4123641,0.9219480005279134,0.4123641
+1,CDS with Attention,0.9287184901676125,0.3542072,0.9287184901676125,0.3542072
+2,ResNet18,0.9525405833443316,0.5371619,0.9525405833443316,0.5371619
