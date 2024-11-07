@@ -39,4 +39,4 @@ Data in folder: https://drive.google.com/drive/folders/1aEPP6_53Rqhd0FFeaB4AlGFH
 
 Colab links:
 Part1: https://colab.research.google.com/drive/1HM-F8OeARKCZ-M-EYuk6WN9nKtAqT737?usp=sharing
-Part2: https://colab.research.google.com/drive/1VFo35_mHb0VJfWUNC3FVc3ITq1kmf7cK?usp=sharing
+Part2: https://colab.research.google.com/drive/1aIodugViFsyzh8txT2rf7yQ5DWAnNAgR?usp=sharing
